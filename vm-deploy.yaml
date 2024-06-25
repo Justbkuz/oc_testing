@@ -15,7 +15,7 @@ spec:
     spec:
       sourceRef:
         kind: DataSource
-        name: fedora-server-small
+        name: fedora
         namespace: openshift-virtualization-os-images
       storage:
         resources:
